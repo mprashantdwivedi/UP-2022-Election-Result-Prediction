@@ -2,6 +2,8 @@
 
 Data collected using twitter.
 
+Colab link : https://colab.research.google.com/drive/1TKgO8yQRNzC3IIQkAApmmthJY6vtMk8w?usp=sharing
+
 # Sample output 
 
 
